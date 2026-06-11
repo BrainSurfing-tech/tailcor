@@ -115,7 +115,7 @@ Output: composite starts ~1 at `q=0.6`, grows past `1.5` at `q=0.99` — the cla
 - **Pierre Samson** ([@darw007d](https://github.com/darw007d)) — idea, use-case, design decisions
 - **Claude Opus** (Anthropic) — implementation and tests
 
-Originally motivated by the [OMEGA Swarm](https://github.com/darw007d/hedge-fund-mcp) project, Phase 19 Tier A #4. Sister package to [phawkes](https://pypi.org/project/phawkes/) (Hawkes processes) and [fisherrao](https://pypi.org/project/fisherrao/) (information geometry). Same "small, tested, publishable" ethos.
+Originally motivated by a quantitative-finance application (tail-contagion decomposition). Sister package to [phawkes](https://pypi.org/project/phawkes/) (Hawkes processes) and [fisherrao](https://pypi.org/project/fisherrao/) (information geometry). Same "small, tested, publishable" ethos.
 
 ## Citation
 
